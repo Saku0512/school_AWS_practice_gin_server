@@ -1,0 +1,1 @@
+# school_AWS_practice_gin_server

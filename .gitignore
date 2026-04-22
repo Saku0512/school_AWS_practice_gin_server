@@ -1,1 +1,4 @@
 go.sum
+
+ec2_key
+ec2_key.pub

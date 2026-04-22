@@ -11,7 +11,7 @@ func main() {
 
 	r.GET("/", func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{
-			"message:": "Gin server is running",
+			"message": "Gin server is running",
 		})
 	})
 
